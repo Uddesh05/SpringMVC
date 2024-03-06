@@ -44,4 +44,50 @@ id<input type="text" name="id">
 </center>
 </body>
 </html>
+<style>
+body {
+    background-color: skyblue;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
 
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"], input[type="submit"], input[type="reset"] {
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+}
+
+input[type="submit"], input[type="reset"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover, input[type="reset"]:hover {
+    background-color: #45a049;
+}
+
+a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: blue;
+    margin-top: 20px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+</style>

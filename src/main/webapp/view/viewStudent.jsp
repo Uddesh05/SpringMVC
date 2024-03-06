@@ -53,5 +53,5 @@ tr:nth-child(even) {
 </body>
 </html>
 
-<a href="viewtable" target="_blank">View Table</a>
+<a href="student.jsp" target="_blank">MainPage</a>
 
